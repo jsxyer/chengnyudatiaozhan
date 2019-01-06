@@ -1,0 +1,20 @@
+{
+	"skins": {
+		"Word": "resource/assets/skin/WordSkin.exml",
+		"Begin": "resource/assets/skin/BeginSkin.exml",
+		"GameSettingSkin": "resource/assets/skin/GameSettingSkin.exml",
+		"Game": "resource/assets/skin/GameSkin.exml",
+		"LevelIcon": "resource/assets/skin/LevelIconSkin.exml",
+		"Levels": "resource/assets/skin/LevelsSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/assets/skin/BeginSkin.exml",
+		"resource/assets/skin/GameSettingSkin.exml",
+		"resource/assets/skin/GameSkin.exml",
+		"resource/assets/skin/LevelIconSkin.exml",
+		"resource/assets/skin/LevelsSkin.exml",
+		"resource/assets/skin/WordSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
