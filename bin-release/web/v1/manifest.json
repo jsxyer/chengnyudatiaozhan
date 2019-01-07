@@ -9,6 +9,10 @@
 	],
 	"game": [
 		"js/default.thm_e880e4b.js",
+<<<<<<< Updated upstream
 		"js/main.min_2ec324a3.js"
+=======
+		"js/main.min_663eaafa.js"
+>>>>>>> Stashed changes
 	]
 }
